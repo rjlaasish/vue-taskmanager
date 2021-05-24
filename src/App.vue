@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <Header @add-task-btn="handleAddTask" title="Hello World" :showAddTask="showAddTask"/>
+    <Header @add-task-btn="handleAddTask" title="Task Manager" :showAddTask="showAddTask"/>
     <div v-show="showAddTask">
       <AddTask @add-task="addTask"/>
     </div>
