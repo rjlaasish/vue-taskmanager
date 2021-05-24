@@ -1,19 +1,10 @@
-# vue-crash-course
+# Vue task Manager
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+**Description** :
+This is a simple task manager vue app concept.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Demo Link : ` https://taskmanagervue.netlify.app/  ` or <a  href="https://taskmanagervue.netlify.app/">CLICK HERE</a>
+
